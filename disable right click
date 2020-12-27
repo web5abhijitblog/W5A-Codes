@@ -1,0 +1,47 @@
+var message=&quot;Right-click has been disabled&quot;;
+
+function clickIE() {
+
+    if (document.all) {
+
+        (message);
+
+        return false;
+
+    }
+
+}
+
+function clickNS(e) {
+
+    if (document.layers || (document.getElementById &amp; !document.all)) {
+
+        if (e.which == 2||e.which == 3) {
+
+            (message);
+
+            return false;
+
+        }
+
+    }
+
+}
+
+if (document.layers) {
+
+    document.captureEvents(Event.MOUSEDOWN);
+
+    document.onmousedown = clickNS;
+
+} else {
+
+    document.onmouseup = clickNS;
+
+    document.oncontextmenu = clickIE;
+
+}
+
+document.oncontextmenu = new Function(&quot;return false&quot;);
+
+document.getElementsByClassName(&#39;my-img&#39;).ondragstart = function() { return false; };
