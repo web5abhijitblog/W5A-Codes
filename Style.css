@@ -1,0 +1,20 @@
+.gfg {
+width:auto;
+
+text-align:center;
+
+padding:20px;
+
+}
+
+.post-body img { width:100%; height:auto; 
+}
+body[amp-x-aExperiment='treatment1'] .test-banner {
+  display: none;
+}
+
+.add-button {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
