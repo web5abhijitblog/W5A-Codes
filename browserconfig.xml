@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
-    <msapplication>
-        <tile>
-            <square150x150logo src="https://1.bp.blogspot.com/-Zx9Z8OnaH80/X6etAp2AAfI/AAAAAAAAAQM/0uh1YRQyQKEI9DNV-tyXFHwVehCM5BaHwCLcBGAsYHQ/s270/mstile-150x150.png>
-            <TileColor>#2b5797</TileColor>
-        </tile>
-    </msapplication>
+  <msapplication>
+    <tile>
+      <square70x70logo src="https://1.bp.blogspot.com/-YE5ILYc-2rQ/YAQ_rm4ouuI/AAAAAAAAAgw/8vTftBdnBVIKTfL1fELuhjLBeEbsYimpgCLcBGAsYHQ/s0/ms-icon-70x70.png"/>
+      <square150x150logo src="https://1.bp.blogspot.com/-D3ipF1VWNrA/YAQ_qWucdCI/AAAAAAAAAgo/E8OWgHtBuIIc4jQFXkN4CpPeuJmM-mFQwCLcBGAsYHQ/s0/ms-icon-150x150.png"/>
+      <wide310x150logo src="images/widetile.png"/>
+      <square310x310logo src="https://1.bp.blogspot.com/-5ftrz5yG3_g/YAQ_rXfPD2I/AAAAAAAAAgs/RUbflFLtk-E-aMXEZ6hM8jDzin-lt3yygCLcBGAsYHQ/s0/ms-icon-310x310.png"/>
+      <TileColor>#009900</TileColor>
+    </tile>
+  </msapplication>
 </browserconfig>
