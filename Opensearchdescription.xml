@@ -2,8 +2,8 @@
 <ShortName>Web5abhijit</ShortName>
 <LongName>Web5abhijit | Increase your knowledge only from this blog.</LongName>
 <InputEncoding>UTF-8</InputEncoding>
-<Image height="16" width="16" type="image/png">https://web5abhijit.blogspot.com/favicon.ico</Image>
-<Url type="text/html" rel="results" method="GET" template="https://web5abhijit.blogspot.com/search">
+<Image height="16" width="16" type="image/png">https://web5abhijitblog.blogspot.com/favicon.ico</Image>
+<Url type="text/html" rel="results" method="GET" template="https://web5abhijitblog.blogspot.com/search">
 <Param name="q" value="{searchTerms}"/>
 </Url>
 </OpenSearchDescription>
