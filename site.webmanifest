@@ -2,8 +2,10 @@
     "name": "Web5abhijit | Increase your knowledge only from this blog.",
     "short_name": "Web5abhijit",
     "description": "Learn a lot just from this Web5abhijit blog | Learn easily Technology , Healthy tips , Nature , Travel , Cook Much more from this Hand blog .",
- "gcm_sender_id": "490169433231",
-  "gcm_user_visible_only": true,
+    "gcm_sender_id": "490169433231",
+    "gcm_user_visible_only": true,
+    "start_url":"/?,
+    "utm_source=pwa_homescreen",
  "icons": [{
     "src": "https://1.bp.blogspot.com/-pkOlV61FlBs/YA1JTk1T5EI/AAAAAAAAAlg/N4L7A5Gh77EedGThITiGs04dYYC3hv-SQCLcBGAsYHQ/s0/circle-cropped_4_48x48.png",
     "sizes": "48x48",
